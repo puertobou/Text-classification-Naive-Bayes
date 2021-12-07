@@ -1,2 +1,0 @@
-# Text classification-Naïve Bayes
-
